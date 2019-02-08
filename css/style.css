@@ -1,0 +1,9 @@
+/*
+	Plugin: AKA First Letter Avatar
+	Plugin website: https://akarbasi.ir
+*/
+.wpfla.round-avatars {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
