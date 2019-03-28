@@ -2,6 +2,7 @@
 if(!defined('ABSPATH')) {
     exit;
 }
+
 class WP_First_Letter_Avatar_Config
 {
     private $options;
