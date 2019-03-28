@@ -1,12 +1,4 @@
 <?php
-
-/*
-	PHP file containing whole back-end of the WP First Letter Avatar plugin.
-	WP First Letter Avatar prefix - 'wpfla'
- */
-
-
-
 // Exit if accessed directly:
 if (!defined('ABSPATH')){
     exit;
